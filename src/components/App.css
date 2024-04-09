@@ -1,0 +1,95 @@
+body {
+    background-image: url(assets/img/bg_casino.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.money {
+    margin: 50px;
+}
+
+.money_reset {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.risks {
+    display: flex;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.cardlist{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn_bet {
+    margin: 20px 0 20px 0;
+    width: 100px;
+}
+
+.texts_rendering {
+    height: 400px;
+    overflow-y: scroll;
+    border: 2px groove;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.fail, .zero {
+    color: red;
+}
+
+.gain, .final_money {
+    color: green;
+}
+
+.chance_message {
+    color: rgb(215, 89, 11);
+}
+
+.host, .wallet, .coin {
+    color: white;
+}
+
+.chance {
+    display: inline-block;
+    color: rgba(71, 197, 42, 0.965);
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.coin, .chance {
+    border-top: 2px groove green;
+    border-left: 2px groove green;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.coin {
+    padding: 5px;
+}
+
+p {
+    background-color: white;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: larger;
+}
+
+.money {
+    background-image: url(assets/img/money_falling.gif);
+    border: 1px groove;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.reset {
+    border: 1px groove;
+}
