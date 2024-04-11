@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b03d0a12.css",
+    "main.js": "/static/js/main.89fddd4c.js",
+    "static/media/bg_casino.jpg": "/static/media/bg_casino.a16af61a84ea3c72c4bf.jpg",
+    "static/media/money_falling.gif": "/static/media/money_falling.a3ecf944e92756e6eeb2.gif",
+    "static/media/fail.mp3": "/static/media/fail.476ab65abb47c4f8229b.mp3",
+    "static/media/game_over.mp3": "/static/media/game_over.317ebb3276a5e0cfd08f.mp3",
+    "static/media/bet_sound.mp3": "/static/media/bet_sound.a76f3f163f9db51579be.mp3",
+    "static/media/chances_zero.mp3": "/static/media/chances_zero.4f4f6467c9f126dffcaf.mp3",
+    "index.html": "/index.html",
+    "main.b03d0a12.css.map": "/static/css/main.b03d0a12.css.map",
+    "main.89fddd4c.js.map": "/static/js/main.89fddd4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03d0a12.css",
+    "static/js/main.89fddd4c.js"
+  ]
+}
